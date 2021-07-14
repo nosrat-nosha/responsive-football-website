@@ -201,7 +201,7 @@ margin-top: 30px;
      header section 
      ---------------- */
     .container{
-        width: 300px;
+        width: 400px;
         height: 695px;
         display: grid;
         grid-template-columns: repeat(1,1fr);
@@ -248,14 +248,15 @@ margin-top: 30px;
       margin-left: 20px;
     }        
     .blog{
-        width: 251px;
+        width: 350px;
      }        
     .blog-banner img{
-        width:220px ;
+        width:320px ;
+        height:250px;
       
     }
     .blog-info p{
-        width:240px;
+        width:300px;
     }
     /*---------------
     highlite section  
